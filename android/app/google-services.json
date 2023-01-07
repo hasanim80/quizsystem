@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123276959638",
+    "project_id": "quiz-system-bd4eb",
+    "storage_bucket": "quiz-system-bd4eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123276959638:android:1405d2d862a01cd66487b7",
+        "android_client_info": {
+          "package_name": "com.example.quizsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123276959638-dqlfqvpmm2oqmamq1dar8ievinml06m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmB_ozvKP_l3p51CrMl0jyFCKce9mDIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123276959638-dqlfqvpmm2oqmamq1dar8ievinml06m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
